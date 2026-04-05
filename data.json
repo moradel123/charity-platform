@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "إفطار صائم",
+      "description": "توفير وجبات إفطار للصائمين في المساجد خلال شهر رمضان المبارك",
+      "goal": 10000,
+      "current": 6250,
+      "donateLink": "https://paypal.me/example",
+      "status": "active",
+      "donorsCount": 125,
+      "createdAt": "2026-01-01"
+    },
+    {
+      "id": 2,
+      "name": "كسوة الشتاء",
+      "description": "توزيع ملابس شتوية وبطانيات على الأسر المحتاجة في المناطق الباردة",
+      "goal": 8000,
+      "current": 8000,
+      "donateLink": "",
+      "status": "completed",
+      "donorsCount": 95,
+      "createdAt": "2026-01-15"
+    },
+    {
+      "id": 3,
+      "name": "علاج المرضى",
+      "description": "توفير العلاج والأدوية للمرضى غير القادرين على تحمل تكاليف العلاج",
+      "goal": 15000,
+      "current": 3200,
+      "donateLink": "https://paypal.me/example2",
+      "status": "active",
+      "donorsCount": 48,
+      "createdAt": "2026-02-01"
+    },
+    {
+      "id": 4,
+      "name": "بناء مسجد",
+      "description": "المساهمة في بناء مسجد في منطقة نائية تفتقر للمساجد",
+      "goal": 50000,
+      "current": 12500,
+      "donateLink": "https://paypal.me/example3",
+      "status": "active",
+      "donorsCount": 210,
+      "createdAt": "2026-02-15"
+    }
+  ],
+  "lastUpdate": "2026-04-05"
+}
