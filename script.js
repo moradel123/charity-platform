@@ -1,5 +1,5 @@
 // تكوين GitHub - قم بتعديل هذه المعلومات
-const GITHUB_USERNAME = 'moradelkhalili@gmail.com';
+const GITHUB_USERNAME = 'moradel123';
 const REPO_NAME = 'charity-platform';
 const FILE_PATH = 'data.json';
 const RAW_URL = `https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/main/${FILE_PATH}`;
