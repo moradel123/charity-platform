@@ -2,6 +2,7 @@
 const GITHUB_USERNAME = 'moradel123';
 const REPO_NAME = 'charity-platform';
 const FILE_PATH = 'data.json';
+const TOKEN = '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';
 const RAW_URL = `https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/main/${FILE_PATH}`;
 let allProjects = [];
 let currentFilter = 'all';
